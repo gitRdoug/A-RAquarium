@@ -1,3 +1,4 @@
+
 <%-- 
     Document   : home
     Created on : May 12, 2016, 10:20:37 PM
@@ -9,6 +10,8 @@
     <c:import url="/header.html" />
     <body>
         <c:import url="/navigation.html" />
-        <c:import url="/footer.jsp" />  
+        <h1>Aquarium Services and Solutions</h1>  
     </body>
+    <c:import url="/footer.jsp" />  
+
 </html>

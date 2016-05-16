@@ -3,7 +3,6 @@
     Created on : May 12, 2016, 10:18:48 PM
     Author     : DouglasJones
 --%>
-
 <%@page import="java.util.Calendar, java.util.GregorianCalendar"%>
 <%  
     GregorianCalendar currentDate = new GregorianCalendar();

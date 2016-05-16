@@ -9,6 +9,8 @@
     <c:import url="/header.html" />
     <body>
         <c:import url="/navigation.html" />
-        <c:import url="/footer.jsp" />  
+        <h1>About Us</h1>
+         
     </body>
+    <c:import url="/footer.jsp" /> 
 </html>

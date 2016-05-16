@@ -14,23 +14,6 @@ h2 {
 	text-align: center;
 	font-size: 35px;
 }
-#banner {
-	margin: auto;
-	width:80%;
-	height: 10%;
-	background-size: 100%;
-	border-radius: 8px;
-	font-weight: bold;
-        text-align: center;
-	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
-	font-style: oblique;
-	
-	font-variant: small-caps;
-	
-
-}
-
-
 
 nav {
 	margin: auto;
@@ -107,15 +90,14 @@ footer {
 	color: #ff0000;
 	
 	font-weight: bold;
-	
-	
 }
+
 body { 
     /* background-image: Fill in background; */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-    background-size: 100%;
+    background-size: 80%;
 	
 }
 
