@@ -3,6 +3,8 @@
     Created on : May 12, 2016, 10:18:48 PM
     Author     : DouglasJones
 --%>
+<script language="javascript" src="core.js"></script> 
+<script language="javascript" src="bubble.js"></script>
 <%@page import="java.util.Calendar, java.util.GregorianCalendar"%>
 <%  
     GregorianCalendar currentDate = new GregorianCalendar();
